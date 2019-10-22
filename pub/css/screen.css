@@ -467,8 +467,9 @@ html, body {
       padding-bottom: 0.5em; }
   .toc-wrapper .logo {
     display: block;
-    max-width: 100%;
-    margin-bottom: 0px; }
+    max-width: 85%;
+    padding: 10px;
+    margin: auto; }
   .toc-wrapper > .search {
     position: relative; }
     .toc-wrapper > .search input {
